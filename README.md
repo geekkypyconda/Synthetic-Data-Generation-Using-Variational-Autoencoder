@@ -1,6 +1,8 @@
 # Synthetic-Data-Generation-Using-Variational-Autoencoder
 Developed a Variational Autoencoder (VAE) model to generate 2 million synthetic card transaction records, focusing on data preprocessing, model design, and evaluation using KL Divergence. Ensured data quality through scaling and loss function optimization, achieving realistic data distribution comparisons.
 
+## Link for the Dataset,Model weights & Plots: https://drive.google.com/drive/folders/1dRcXWKN6YkNsfo3R2ijV4vUVxs58Aens?usp=sharing
+
 ## Steps Used for generating Synthetic Data
 
 ### Importing Data:
@@ -73,3 +75,24 @@ We generated 2 Million samples.
 
 #### 10. Calculating the metrics:
 We calculated the KL Divergence
+
+
+## Plots
+
+
+![plot_Zip](https://github.com/user-attachments/assets/cb344131-4db2-4147-aa63-fc5890705ee1)
+![plot_Year](https://github.com/user-attachments/assets/95c7a8d0-7502-4621-a1c6-a0059b4be1ee)
+![plot_User](https://github.com/user-attachments/assets/cddc7c39-daa5-46a3-ba2b-724fe8679398)
+![plot_Use Chip](https://github.com/user-attachments/assets/91719ccf-c956-4f68-9473-b05fb6eb93c3)
+![plot_Time](https://github.com/user-attachments/assets/272c26ef-910c-4d02-861e-cebc9b45f408)
+![plot_Month](https://github.com/user-attachments/assets/3feca526-fea9-4862-998f-dc2fdfc55d3f)
+![plot_Merchant State](https://github.com/user-attachments/assets/e2183a05-f948-40d9-a154-0a308ebec7a2)
+![plot_Merchant Name](https://github.com/user-attachments/assets/515c72e9-4e45-44ee-bd88-04bcff7993fe)
+![plot_Merchant City](https://github.com/user-attachments/assets/88f6565d-131e-409d-bbf7-db302d192a62)
+![plot_MCC](https://github.com/user-attachments/assets/189cce19-b688-4270-ba3b-7834ada7216f)
+![plot_Is Fraud_](https://github.com/user-attachments/assets/dcaf62ac-f3d3-4ad1-990b-5a68f5cf7031)
+![plot_Errors_](https://github.com/user-attachments/assets/4003ac93-a4d5-468e-8338-286eef8fe5a3)
+![plot_Day](https://github.com/user-attachments/assets/6084dade-dbb9-4803-b1c2-f207e115a868)
+![plot_Card](https://github.com/user-attachments/assets/3641085c-a111-4f9e-ad02-8b4879845e35)
+![plot_Amount](https://github.com/user-attachments/assets/2e2b0482-db1b-45f3-9732-419b5fdaf2fd)
+![metrics](https://github.com/user-attachments/assets/83ba48c0-8168-40b6-801a-b4a0aea5b571)
